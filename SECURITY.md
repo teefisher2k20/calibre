@@ -7,15 +7,11 @@ and released just like all other bugs.
 
 ## Reporting a vulnerability
 
-To report security vulnerabilities, open a normal bug report in the
-[calibre bug tracker](https://calibre-ebook.com/bugs) and mark it private.
+To report security vulnerabilities, open an issue in this GitHub repository.
 
-Additionally, you can use GitHub Private security advisories against this
-repository to report issues.
+For sensitive security issues, you can use GitHub's private security advisories
+feature to report them confidentially.
 
-Note that I will generally respond to security communication within 72 hours. Once
-the bug is confirmed, it will be fixed or at least mitigated within another 72
-hours, at which time the fix will typically be committed to master and hence be
-public. That timeline might be extended based on the severity of the issue and the
-current state of master in terms of making a new release, if so, it will be
-done in consultation with the issue reporter.
+Security issues will be addressed as quickly as possible. Once confirmed, fixes
+will be committed to the main branch. The timeline may vary based on the severity
+of the issue and the current development state.
